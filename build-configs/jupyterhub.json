@@ -39,7 +39,7 @@
                     "type": "Git",
                     "git": {
                         "uri": "https://github.com/kendoeq3/jupyterhub-quickstart.git",
-                        "ref": "3.1.0"
+                        "ref": "develop"
                     }
                 },
                 "strategy": {
